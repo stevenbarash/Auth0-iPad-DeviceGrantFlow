@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  auth0DeviceFlow
 //
-//  Created by Pushp Abrol on 8/21/18.
-//  Copyright © 2018 Pushp Abrol. All rights reserved.
+//  Created by Steven Barash on 8/20/22.
+//  Copyright © 2022 Steven Barash. All rights reserved.
 //
 
 import UIKit
